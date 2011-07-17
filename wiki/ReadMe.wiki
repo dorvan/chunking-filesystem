@@ -118,10 +118,10 @@ The Start menu includes an item "ChunkFS Command Line" that should open a comman
 
 CFSRestore.exe - restore a chunked file. 
 
-Usage: CFSRestore <firstfile> <destdir> 
+Usage: `CFSRestore <firstfile> <destdir>` 
 
 ChunkFS.exe - mount a ChunkFS file system. 
 
-Usage: ChunkFS <mountpoint> <chunksize> <sourcefile>... 
+Usage: `ChunkFS <mountpoint> <chunksize> <sourcefile>... `
 
 These utilities must be run with the directory where the ChunkFS programs are installed as the current working directory. 
