@@ -82,7 +82,7 @@ Mounted. Read-only indicator showing if the configuration is presently mounted a
 
 Fileset properties 
 
-File Name. The full path or file name pattern for source file(s). ChunkFS never modifies the actual input files. Pattern can include the wildcards "*" or "?". 
+File Name. The full path or file name pattern for source file(s). ChunkFS never modifies the actual input files. Pattern can include the wildcards "`*`" or "?". 
 
 Total size. Read-only, shows the size of the file(s) selected by the file name (pattern). 
 
